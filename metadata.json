@@ -1,0 +1,7 @@
+{
+  "name": "EcoloBrick - Sustainable Innovation",
+  "description": "Premium landing page for EcoloBrick, an eco-friendly construction company transforming coffee waste and palm leaves into high-performance architectural bricks.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
